@@ -1,0 +1,212 @@
+[
+  {
+    "model": "Remote_User.clientregister_model",
+    "pk": 1,
+    "fields": {
+      "username": "Mohan",
+      "email": "Mohan123@gmail.com",
+      "password": "Mohan",
+      "phoneno": "9535866270",
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bangalore"
+    }
+  },
+  {
+    "model": "Remote_User.clientregister_model",
+    "pk": 2,
+    "fields": {
+      "username": "Manjunath",
+      "email": "tmksmanju13@gmail.com",
+      "password": "Manjunath",
+      "phoneno": "9535866270",
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bangalore"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 1,
+    "fields": {
+      "Url_Text": "www.vdacs.virginia.gov/marketnews/",
+      "Prediction": "Non Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 2,
+    "fields": {
+      "Url_Text": "www.frosinonenascosta.it/google.com",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 7,
+    "fields": {
+      "Url_Text": "lingshc.com/old_aol.1.3/?Login=&amp;Lis=10&amp;LigertID=1993745&amp;us=1",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 8,
+    "fields": {
+      "Url_Text": "home.comcast.net/~cfallows1/ISAPIdllCustomerSupport&ambaybuyerprotectionpoliciesindex4.html.draft",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 9,
+    "fields": {
+      "Url_Text": "esxcc.com/js/index.htm?us.battle.net/login/en/?ref=mtnyfgjus.battl%/nat/d3/en/addx&,10",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 10,
+    "fields": {
+      "Url_Text": "www.naturalhub.com/grow_meat_breeds_cattle_small.htm",
+      "Prediction": "Non Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 12,
+    "fields": {
+      "Url_Text": "web-fill.tk/go/?afid=51",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 13,
+    "fields": {
+      "Url_Text": "scaner-tfeed.tk/go/?afid=96",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 14,
+    "fields": {
+      "Url_Text": "update.onescan.co.kr/setupa/onescansetup.exe",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 15,
+    "fields": {
+      "Url_Text": "tools.ietf.org/html/rfc469",
+      "Prediction": "Non Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 16,
+    "fields": {
+      "Url_Text": "www.sisimtel.com.mx/ecommerce/images/.../freebank/myposte/index.html?MfcISAPICommand=SignInFPP&UsingSSL=1&email=&userid=",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 17,
+    "fields": {
+      "Url_Text": "www.greattrailrunsinutah.com/s/www.paypal.it_service-security_confermation/it/Processing1.php?cmd=_Processing",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 18,
+    "fields": {
+      "Url_Text": "Suspicious sample URL payload",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 19,
+    "fields": {
+      "Url_Text": "www.118bm.com/images/?us.battle.net/login/en/?ref=dwfgmsdus.battle.net/d3/en/index&amp;app=com-d3",
+      "Prediction": "Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detecting_type",
+    "pk": 20,
+    "fields": {
+      "Url_Text": "woodstonmanor.tripod.com/Angus.htm",
+      "Prediction": "Non Phishing"
+    }
+  },
+  {
+    "model": "Remote_User.detection_accuracy",
+    "pk": 58,
+    "fields": {
+      "names": "Naive Bayes",
+      "ratio": "94.02023919043239"
+    }
+  },
+  {
+    "model": "Remote_User.detection_accuracy",
+    "pk": 59,
+    "fields": {
+      "names": "SVM",
+      "ratio": "94.84820607175713"
+    }
+  },
+  {
+    "model": "Remote_User.detection_accuracy",
+    "pk": 60,
+    "fields": {
+      "names": "Logistic Regression",
+      "ratio": "93.83624655013799"
+    }
+  },
+  {
+    "model": "Remote_User.detection_accuracy",
+    "pk": 61,
+    "fields": {
+      "names": "Decision Tree Classifier",
+      "ratio": "93.10027598896045"
+    }
+  },
+  {
+    "model": "Remote_User.detection_accuracy",
+    "pk": 62,
+    "fields": {
+      "names": "Random Forest Classifier",
+      "ratio": "94.48022079116836"
+    }
+  },
+  {
+    "model": "Remote_User.detection_accuracy",
+    "pk": 63,
+    "fields": {
+      "names": "SGD Classifier",
+      "ratio": "95.67617295308187"
+    }
+  },
+  {
+    "model": "Remote_User.detection_ratio",
+    "pk": 12,
+    "fields": {
+      "names": "Phishing",
+      "ratio": "73.33333333333333"
+    }
+  },
+  {
+    "model": "Remote_User.detection_ratio",
+    "pk": 13,
+    "fields": {
+      "names": "Non Phishing",
+      "ratio": "26.666666666666668"
+    }
+  }
+]
