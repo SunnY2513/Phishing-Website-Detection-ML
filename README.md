@@ -15,6 +15,7 @@ Features
 * Django web application interface
 * Performance comparison of multiple algorithms
 * Real-time website prediction
+* graph of phishing and legitimate websites 
 
 
 ## Technologies Used
