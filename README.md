@@ -140,6 +140,29 @@ http://127.0.0.1:8000/
 * Real-time threat intelligence integration
 
 
+SCREEN SHOTS
+
+1.1.Home Page
+
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/e4cb182f-6b56-43fa-8369-2d666d370b56" />
+
+1.2.Registration Page
+
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/2c080db1-4ea6-4710-bdcc-a670f917968b" />
+
+1.3 Login Page
+
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/49ba8e89-e1a9-4fd3-b168-ca6c9fba299d" />
+
+1.4.Graph
+
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/b3189af0-7afa-4546-8897-6d50a28f80e8" />
+
+
+
+
+
+
 
 ## License
 
