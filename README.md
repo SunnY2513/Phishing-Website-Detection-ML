@@ -123,6 +123,10 @@ http://127.0.0.1:8000/
 
 
 
+ADMIN LOG IN DETAILS:
+ User name :Admin
+ Password:Admin
+
 ## Contributors
 
 * A. Bhanu Prakash
